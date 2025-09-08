@@ -1,0 +1,1 @@
+Excel model that uses Monte Carlo simulations, macros, and statistical analysis to model 100 games of a given scenario, calculate win probabilities, and produce summary statistics and visualizations for scenario analysis
